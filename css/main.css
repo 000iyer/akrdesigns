@@ -432,16 +432,16 @@ nav a.menu-item {
     opacity: .7;
 }
 .h-img {
-    background: url(/assets/media/gen-ver/hero-img.jpg) no-repeat bottom right;
+    background: url(/akrdesigns/assets/media/gen-ver/hero-img.jpg) no-repeat bottom right;
 }
 .h-img1 {
-    background: url(/assets/media/gen-ver/hero-img1.jpg) no-repeat center center;
+    background: url(/akrdesigns/assets/media/gen-ver/hero-img1.jpg) no-repeat center center;
 }
 .h-img2 {
-    background: url(/assets/media/gen-ver/hero-img2.jpg) no-repeat top left;
+    background: url(/akrdesigns/assets/media/gen-ver/hero-img2.jpg) no-repeat top left;
 }
 .h-img3 {
-    background: url(/assets/media/gen-ver/hero-img3.jpg) no-repeat bottom right;
+    background: url(/akrdesigns/assets/media/gen-ver/hero-img3.jpg) no-repeat bottom right;
 }
 .bg-cover {
     position: relative;
@@ -635,7 +635,7 @@ div.mouse span.scroll-down {
     background-position: center;
 }
 .media-column {
-    background: url(/assets/media/gen-ver/vid.jpg) no-repeat center center;
+    background: url(/akrdesigns/assets/media/gen-ver/vid.jpg) no-repeat center center;
 }
 .hero-content {
     text-align: center;
@@ -1024,7 +1024,7 @@ select#inputArticle-Sort {
 }
 .col-f.subscribe {
     padding: 14rem 0;
-    background: url(/assets/media/gen-ver/subscribe-1.jpg) no-repeat center center;
+    background: url(/akrdesigns/assets/media/gen-ver/subscribe-1.jpg) no-repeat center center;
     background-size: cover;
     background-attachment: fixed; 
 }
@@ -1210,7 +1210,7 @@ select#inputArticle-Sort {
     padding: 13rem 0 10rem;
 }
 .hire-us {
-    background: url(/assets/media/gen-ver/hire-us-img.jpg) no-repeat top center;
+    background: url(/akrdesigns/assets/media/gen-ver/hire-us-img.jpg) no-repeat top center;
     background-size: cover;
 }
 .hire-content {
